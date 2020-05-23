@@ -13,10 +13,12 @@
 /missing
 /src/Makefile
 /src/Makefile.in
+/src/homed/**/*.c
 /src/homed/Makefile
 /src/homed/Makefile.in
 /src/homed/config.h
 /src/homed/config.h.in
 /src/homed/config.h.in~
 /src/homed/homed
+/src/homed/homed_vala.stamp
 stamp-h1
